@@ -1,0 +1,8 @@
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\bin\Debug\correinsertonsort.exe.config
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\bin\Debug\correinsertonsort.exe
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\bin\Debug\correinsertonsort.pdb
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\obj\Debug\correinsertonsort.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\obj\Debug\correinsertonsort.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\obj\Debug\correinsertonsort.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\obj\Debug\correinsertonsort.exe
+C:\Users\Hp\source\repos\correinsertonsort\correinsertonsort\obj\Debug\correinsertonsort.pdb
